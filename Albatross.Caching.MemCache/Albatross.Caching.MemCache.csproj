@@ -7,7 +7,7 @@
 		<LangVersion>Latest</LangVersion>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Albatross.Text" Version="7.5.7" />
+		<PackageReference Include="Albatross.Text" Version="8.0.1" />
 		<PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="8.0.1" />
 		<PackageReference Include="Polly.Caching.Memory" Version="3.0.2" />
 	</ItemGroup>
